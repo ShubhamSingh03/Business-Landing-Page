@@ -15,17 +15,17 @@
 ***
 ## Description
 
-This project [Business Landing Page]() was built using Semantic HTML and CSS from scratch. The main aim was to make the webpage based on the design provided and also make it responsive for all major devices. This project helped me in learning brushing up concepts like **grid**, **transform**, **make mega-menu footer**, **pseudo classes :nth-child** and etc. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Business Landing Page](https://businesss-homepage.netlify.app/) was built using Semantic HTML and CSS from scratch. The main aim was to make the webpage based on the design provided and also make it responsive for all major devices. This project helped me in learning brushing up concepts like **grid**, **transform**, **make mega-menu footer**, **pseudo classes :nth-child** and etc. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://businesss-homepage.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/Nto_1rFGHGc)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Business-Landing-Page)
 
 ***
 ### Built With 
@@ -115,17 +115,17 @@ This project [Business Landing Page]() was built using Semantic HTML and CSS fro
 ### Checkout Portfolio & Other Projects
 <br>
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
 
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
-* [LinkedIn]()
-* [Github]()
-* [Findcoder]()
+* [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
+* [Github](https://github.com/ShubhamSingh03)
+* [Findcoder](https://www.findcoder.io/u/shubham_singh)
 ***
 ***
 [go to top](#business-landing-page)
